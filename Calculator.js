@@ -89,4 +89,4 @@ class Calculator {
   }
 }
 
-export const stuff = ['hello']
+export { Calculator };
